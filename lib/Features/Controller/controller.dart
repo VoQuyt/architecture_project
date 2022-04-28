@@ -1,0 +1,4 @@
+/*
+  Contains state management.
+  Usually used provider lib of flutter
+*/
